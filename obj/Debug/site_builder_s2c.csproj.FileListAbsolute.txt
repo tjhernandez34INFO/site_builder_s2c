@@ -1,0 +1,8 @@
+C:\insp\site_builder_s2c\bin\Debug\site_builder_s2c.exe.config
+C:\insp\site_builder_s2c\obj\Debug\site_builder_s2c.csprojResolveAssemblyReference.cache
+C:\insp\site_builder_s2c\bin\Debug\site_builder_s2c.exe
+C:\insp\site_builder_s2c\bin\Debug\site_builder_s2c.pdb
+C:\insp\site_builder_s2c\bin\Debug\CsQuery.dll
+C:\insp\site_builder_s2c\bin\Debug\CsQuery.xml
+C:\insp\site_builder_s2c\obj\Debug\site_builder_s2c.exe
+C:\insp\site_builder_s2c\obj\Debug\site_builder_s2c.pdb
